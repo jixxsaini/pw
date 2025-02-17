@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pw/static/css/main.a4a8772d.css",
+    "main.js": "/pw/static/js/main.5baa3935.js",
+    "static/js/453.aac68abc.chunk.js": "/pw/static/js/453.aac68abc.chunk.js",
+    "static/media/expensio.png": "/pw/static/media/expensio.b289432039885902db71.png",
+    "static/media/weather.png": "/pw/static/media/weather.a96235590b949ed32ec6.png",
+    "static/media/avatar.png": "/pw/static/media/avatar.89849f73f1505854d935.png",
+    "static/media/dashboard.png": "/pw/static/media/dashboard.d7a0dabf4a3b879bb695.png",
+    "static/media/lofound.png": "/pw/static/media/lofound.ce12d501646851cf392f.png",
+    "static/media/connectly.png": "/pw/static/media/connectly.6a0a83902cdb3d1800a1.png",
+    "static/media/tailwind-css.png": "/pw/static/media/tailwind-css.2b6e62061fef8b99c1d8.png",
+    "static/media/express.png": "/pw/static/media/express.304b141b6c72993d3aad.png",
+    "static/media/Jitesh_Saini.pdf": "/pw/static/media/Jitesh_Saini.ebf6792a0af5abcbf764.pdf",
+    "static/media/material-ui.png": "/pw/static/media/material-ui.732c0a0e3c9e7b8b21e3.png",
+    "static/media/typescript-icon.svg": "/pw/static/media/typescript-icon.b89039636bc387061057f3a697b01803.svg",
+    "static/media/noun-mail-560844.svg": "/pw/static/media/noun-mail-560844.5a293248672530579719a73e8b3300f2.svg",
+    "index.html": "/pw/index.html",
+    "main.a4a8772d.css.map": "/pw/static/css/main.a4a8772d.css.map",
+    "main.5baa3935.js.map": "/pw/static/js/main.5baa3935.js.map",
+    "453.aac68abc.chunk.js.map": "/pw/static/js/453.aac68abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4a8772d.css",
+    "static/js/main.5baa3935.js"
+  ]
+}
